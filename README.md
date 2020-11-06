@@ -1,16 +1,9 @@
-### Hello 👋
-
-### - 🔭 I’m currently working on a discord bot ( Tear )
-### - 📫 How to reach me: Tear#2307
-### - ⚡ Fun fact: Im a girl :)
-
-
-
 <h1 align="center">Hello 👋</h1>
 
 <h3 align="center">- 🔭 I’m currently working on <b>EcoBot</b></h3>
-<h3 align="center">- 📫 Reach me on discord : Gogeta 🎃#2869</h3>
+<h3 align="center">- 📫 Reach me on discord : Tear#2307</h3>
 <h3 align="center">- 📋 Gonna release many discord bot codes</h3>
+<h3 align="center">- ⚡ Fun fact : Im a girl :)
 
 <hr>
 <h3 align="center">Tools</h3>
@@ -18,6 +11,6 @@
 <hr>
 
 <h3 align="center">Statistics</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kcplayz&show_icons=true&theme=dracula" alt="kcplayz" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kcplayz&show_icons=true&theme=dracula&layout=compact" alt="kcplayz" 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tear-Dev&show_icons=true&theme=dracula" alt="Tear-Dev" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tear-Dev&show_icons=true&theme=dracula&layout=compact" alt="Tear-Dev" 
 /></p>
