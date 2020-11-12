@@ -1,9 +1,8 @@
 <h1 align="center">Hello 👋</h1>
 
-<h3 align="center">- 🔭 I’m currently working on <b>Tear Bot</b></h3>
-<h3 align="center">- ⚡ Fun fact : Im a girl :)
+<h3 align="center">- 🔭 I’m currently working on <b>a discord bot.</b></h3>
 <h3 align="center">- 📫 Reach me on discord : Tear#2307</h3>
-<h3 align="center">- 📋 Gonna release many discord bot codes</h3>
+<h3 align="center">- 📋 Gonna release many discord bot codes.</h3>
 
 <hr>
 <h3 align="center">Tools</h3>
