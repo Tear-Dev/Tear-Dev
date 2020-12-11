@@ -12,6 +12,7 @@
 <hr>
 
 <h3 align="center">
+  
 ![Tear-Dev](https://github-readme-stats.vercel.app/api?username=Tear-Dev&show_icons=true&theme=tokyonight&layout=compact)
 
 ![Tear-Dev](https://github-readme-stats.vercel.app/api/top-langs?username=Tear-Dev&show_icons=true&theme=tokyonight&layout=compact)
