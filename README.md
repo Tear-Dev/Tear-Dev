@@ -11,10 +11,6 @@
 <h3 align="center">Statistics</h3>
 <hr>
 
-<p align="center">
 ![Tear-Dev](https://github-readme-stats.vercel.app/api?username=Tear-Dev&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![Tear-Dev](https://github-readme-stats.vercel.app/api/top-langs?username=Tear-Dev&show_icons=true&theme=tokyonight&layout=compact)
-
-</p>
-<hr>
