@@ -9,7 +9,9 @@
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img>
 
 <h3 align="center">Statistics</h3>
+<hr>
 
+<p align="center">
 ![Tear-Dev](https://github-readme-stats.vercel.app/api?username=Tear-Dev&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![Tear-Dev](https://github-readme-stats.vercel.app/api/top-langs?username=Tear-Dev&show_icons=true&theme=tokyonight&layout=compact)
